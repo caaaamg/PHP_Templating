@@ -2,7 +2,7 @@
 PHP Templating task for WallStreetDocs
 
 Initial design tests were created before coming to the presented solution.
-These included deciding upon how to handle the initial XML and then furhter parse through the data.
+These included deciding upon how to handle the initial XML and then further on how to parse through the data.
 json_encode() was also implemented early on to give a comparison on the final result.
 
 The final solution made use of switch cases which I have had experience with in other languages and could manipulate comfortably.
